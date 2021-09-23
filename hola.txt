@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hola Mundo estoy aprendiendo git y está muy bonito
-=======
-Hola Dos
->>>>>>> parent of a0ec694 (Update hola.txt)
