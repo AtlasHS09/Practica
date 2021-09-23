@@ -1,1 +1,3 @@
-Hola Mundo estoy aprendiendo git y está muy bonito
+Hola Mundo estoy aprendiendo git
+
+Privados
